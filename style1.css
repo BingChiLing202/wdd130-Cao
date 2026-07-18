@@ -1,0 +1,56 @@
+h1 {
+    text-align: center;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin-left: left;
+}
+
+.zjbest {
+    width:30px;
+    height:30px;
+}
+
+header {
+    display: flex;
+    text-align: center;
+    flex-direction: row;
+    justify-content: space-between;
+   
+}
+
+div {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: 40px;
+    
+}
+
+main {
+    font-family: 'Open-sans', sans-serif;
+    text-indent: 20px;
+    border: 5px;
+    padding: 10px 10px 10px 10px;
+    margin: 30px;
+    background-color: pink
+}
+
+
+.zijiebest {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: 30px;
+    border: 10px solid;
+    padding: 15px 15px 10px 10px;
+    margin:30px;
+    background-color: greenyellow
+}
+
+body {
+    background-color:#ff4f3a
+}
